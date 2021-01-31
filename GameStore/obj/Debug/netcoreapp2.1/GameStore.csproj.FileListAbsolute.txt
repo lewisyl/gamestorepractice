@@ -26,3 +26,4 @@ C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Ra
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\GameStore.Views.pdb
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\GameStore.csproj.CopyComplete
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.cshtml.g.cs
+C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\bin\Debug\netcoreapp2.1\bower.json
