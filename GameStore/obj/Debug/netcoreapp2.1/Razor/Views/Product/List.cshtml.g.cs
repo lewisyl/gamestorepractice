@@ -99,7 +99,7 @@ using GameStore.Models.ViewModels;
 #line default
 #line hidden
             BeginContext(476, 221, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6a6659be3e01494bad400a321797a37d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b1f58b4f43e472ea7b5f02dfb5c6597", async() => {
                 BeginContext(689, 2, true);
                 WriteLiteral("\r\n");
                 EndContext();
