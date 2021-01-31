@@ -54,7 +54,7 @@ using GameStore.Models.ViewModels;
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(27, 104, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "28e1f61167904a3fa5561f3d80653ee1", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6355da1c1f4c4e2ab4fbf26f0d6518b2", async() => {
                 BeginContext(33, 91, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>GameStore</title>\r\n");
                 EndContext();
@@ -74,7 +74,7 @@ using GameStore.Models.ViewModels;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(133, 61, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d54b18de39db4a7dbb3a747756995d93", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "be53a52474754777848032cd5378beb3", async() => {
                 BeginContext(139, 21, true);
                 WriteLiteral("\r\n    <div>\r\n        ");
                 EndContext();
