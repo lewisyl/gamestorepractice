@@ -29,3 +29,4 @@ C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Ra
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\bin\Debug\netcoreapp2.1\bower.json
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
+C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs

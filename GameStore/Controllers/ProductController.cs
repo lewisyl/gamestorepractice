@@ -3,7 +3,7 @@ using GameStore.Models;
 using System.Linq;
 using GameStore.Models.ViewModels;
 
-namespace SportsStore.Controllers
+namespace GameStore.Controllers
 {
     public class ProductController : Controller
     {

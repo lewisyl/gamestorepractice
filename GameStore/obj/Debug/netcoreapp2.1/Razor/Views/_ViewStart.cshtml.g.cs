@@ -23,8 +23,13 @@ using GameStore.Models.ViewModels;
 
 #line default
 #line hidden
+#line 3 "C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\Views\_ViewImports.cshtml"
+using GameStore.Infrastructure;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3227b54ebcffa261176a80eeba625e9faae852a3", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"64bb61fcfd082c0b7072654f598923c42fd305bd", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
