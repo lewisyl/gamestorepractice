@@ -13,6 +13,7 @@ namespace GameStore.Components
         }
         public IViewComponentResult Invoke()
         {
+            ViewBag.SelectedCategory = RouteData?.Values["category"];
             return View(repository.Products
             .Select(x => x.Category)
             .Distinct()
