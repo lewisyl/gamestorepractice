@@ -58,12 +58,12 @@ using GameStore.Models.ViewModels;
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(27, 252, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "58cdae515c344b3b9af4b0141b3dcc4d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7f6725206e464dc4bfc54a422959734a", async() => {
                 BeginContext(33, 65, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    ");
                 EndContext();
                 BeginContext(98, 142, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "193d5ef87e7749bc8a81f7c23b3ffa77", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "87a2f3a5e7254fb488600bc6f4cd7744", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper>();
@@ -100,7 +100,7 @@ using GameStore.Models.ViewModels;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(281, 390, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "907324aff08e458d8f54bb251dca6b12", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9ad2bc675b0b40f0b891ca02572877c4", async() => {
                 BeginContext(287, 229, true);
                 WriteLiteral("\r\n    <div class=\"navbar navbar-inverse bg-inverse\" role=\"navigation\">\r\n        <a class=\"navbar-brand\" href=\"#\">GAME STORE</a>\r\n    </div>\r\n    <div class=\"row m-1 p-1\">\r\n        <div id=\"categories\" class=\"col-3\">\r\n            ");
                 EndContext();
