@@ -32,5 +32,7 @@ namespace GameStore.Models
         public override void Clear()
         {
             base.Clear();
+            Session.Remove("Cart");
         }
+    }
 }
