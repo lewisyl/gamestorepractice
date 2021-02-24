@@ -31,3 +31,4 @@ C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Ra
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Cart\Index.cshtml.g.cs
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
+C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
