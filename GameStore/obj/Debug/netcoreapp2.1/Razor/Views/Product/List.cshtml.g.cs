@@ -80,7 +80,7 @@ Write(Html.Partial("ProductSummary", p));
 #line default
 #line hidden
             BeginContext(112, 270, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aafe5aeb55814ebfbf2a94a615fa1a94", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("div", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "54362cd5aca44a0b8dad5b20b9c8fe52", async() => {
                 BeginContext(374, 2, true);
                 WriteLiteral("\r\n");
                 EndContext();

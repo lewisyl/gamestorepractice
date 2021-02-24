@@ -11,7 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Shared\Components\CartSummary\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
