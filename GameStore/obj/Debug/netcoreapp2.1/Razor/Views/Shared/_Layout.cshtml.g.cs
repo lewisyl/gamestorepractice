@@ -64,12 +64,12 @@ using GameStore.Infrastructure;
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(27, 329, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "445614fdac8a4ee797157c4252a04f09", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "45f6d904d66340afa0277b3a46a01be9", async() => {
                 BeginContext(33, 65, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    ");
                 EndContext();
                 BeginContext(98, 142, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "94b2c9ecf29d434f953dff6a1afda893", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "6931d5b4adfe4d7fa2c0a0a7051be043", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper>();
@@ -91,7 +91,7 @@ using GameStore.Infrastructure;
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(246, 71, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "a564451cb7f544998e052d9b37fac452", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "3c768ec7af37427a8152ef0774454102", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_LinkTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper>();
@@ -126,7 +126,7 @@ using GameStore.Infrastructure;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(358, 566, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ca72440be307426496b21e248ea581ca", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e5afcbe3639848029326ee88e779c3cc", async() => {
                 BeginContext(364, 224, true);
                 WriteLiteral("\r\n    <div class=\"navbar navbar-inverse bg-inverse\" role=\"navigation\">\r\n        <div class=\"row\">\r\n            <a class=\"col navbar-brand\" href=\"#\">GAME STORE</a>\r\n            <div class=\"col-4 text-right\">\r\n                ");
                 EndContext();
