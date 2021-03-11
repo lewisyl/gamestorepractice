@@ -7,12 +7,17 @@
           asp-href-include="/lib/bootstrap/dist/**/*.min.css"
           asp-href-exclude="**/*-reboot*,**/*-grid*" />
     <link rel="stylesheet" asp-href-include="/lib/fontawesome/css/*.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Wallpoet&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Monofett&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DotGothic16&family=Monofett&display=swap" rel="stylesheet">
+
     <title>GameStore</title>
 </head>
 <body style="font-family: Comic Sans MS, Comic Sans, cursive">
     <div class="navbar navbar-light bg-warning" role="navigation">
         <div class="row">
-            <a class="col navbar-brand" asp-route="" style="font-family: Jazz LET, fantasy">GAME STORE</a>
+            <a class="col navbar-brand" asp-route="" style="font-family: 'Wallpoet', cursivey">GAME STORE</a>
             <div class="col-4 text-right">
                 @await Component.InvokeAsync("CartSummary")
             </div>
