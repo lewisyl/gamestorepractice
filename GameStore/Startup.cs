@@ -24,7 +24,7 @@ namespace GameStore
 
             services.AddDbContext<AppIdentityDbContext>(options =>
                 options.UseSqlServer(
-                    Configuration["Data:SportStoreIdentity:ConnectionString"]));
+                    Configuration["Data:GameStoreIdentity:ConnectionString"]));
 
             services.AddIdentity<IdentityUser, IdentityRole>()
                 .AddEntityFrameworkStores<AppIdentityDbContext>()
@@ -44,6 +44,7 @@ namespace GameStore
             app.UseStatusCodePages();
             app.UseStaticFiles();
             app.UseSession();
+            app.UseAuthentication();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
@@ -84,6 +85,7 @@ namespace GameStore
                 routes.MapRoute(name: null, template: "{controller}/{action}/{id?}");
             });
             SeedData.EnsurePopulated(app);
+            IdentitySeedData.EnsurePopulated(app);
         }
     }
 }

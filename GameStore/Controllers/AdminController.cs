@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using GameStore.Models;
 using System.Linq;
+using Microsoft.AspNetCore.Authorization;
 
 namespace GameStore.Controllers
 {
+    [Authorize]
     public class AdminController : Controller
     {
         private IProductRepository repository;
