@@ -8,7 +8,7 @@ namespace GameStore.Controllers
     public class ProductController : Controller
     {
         private IProductRepository repository;
-        public int PageSize = 4;
+        public int PageSize = 6;
         public ProductController(IProductRepository repo)
         {
             repository = repo;
