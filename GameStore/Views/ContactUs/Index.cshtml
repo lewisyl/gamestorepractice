@@ -1,5 +1,18 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model ContactUs
+<h2>Contact Us</h2>
+<p>We will reach you back as soon as we can</p>
+<div asp-validation-summary="All" class="text-danger"></div>
+<form method="post">
+    <h3>Contact Info</h3>
+    <div class="form-group">
+        <label>Name:</label><input asp-for="Name" class="form-control" />
+        <label>Email:</label><input asp-for="Email" class="form-control" />
+    </div>
+    <h3>Detail Message</h3>
+    <div class="form-group">
+        <label>Message:</label><textarea asp-for="Message" class="form-control"></textarea>
+    </div>
+    <div class="text-center">
+        <input class="btn btn-primary" type="submit" value="Send" />
+    </div>
+</form>
