@@ -9,6 +9,6 @@ namespace GameStore.Controllers
 {
     public class AboutUsController : Controller
     {
-        public ViewResult AboutUsResult() => View();
+        public ViewResult Index() => View();
     }
 }
