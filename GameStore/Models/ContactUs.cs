@@ -10,7 +10,7 @@ namespace GameStore.Models
     public class ContactUs
     {
         [BindNever]
-        public int CaseID { get; set; }
+        public int CaseId { get; set; }
 
         [Required(ErrorMessage = "Please enter your name")]
         public string Name { get; set; }

@@ -40,3 +40,6 @@ C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Ra
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\bin\Debug\netcoreapp2.1\appsettings.production.json
 C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\Error\Error.cshtml.g.cs
+C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\ContactUs\Index.cshtml.g.cs
+C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\ContactUs\Submitted.cshtml.g.cs
+C:\Users\Lewis Liu\Desktop\CSharp\GameStore\GameStore\obj\Debug\netcoreapp2.1\Razor\Views\AboutUs\Index.cshtml.g.cs
