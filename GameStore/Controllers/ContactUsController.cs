@@ -19,10 +19,8 @@ namespace GameStore.Controllers
             {
                 return RedirectToAction(nameof(Submitted));
             }
-            else
-            {
-                return View(contactUS);
-            }
+
+            return View(contactUS);
         }
 
         public ViewResult Submitted()
